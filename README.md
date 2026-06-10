@@ -1,7 +1,3 @@
-Here’s a polished **README-style summary** for your notebook that you can directly upload to GitHub:  
-
----
-
 # 🧹 Complete Data Preprocessing Notebook
 
 This notebook provides a **comprehensive, hands-on guide to data preprocessing** techniques in Python, covering the full pipeline from raw data cleaning to model-ready transformations. It is designed as a practical reference for data analysts, machine learning practitioners, and students preparing for interviews or projects.
